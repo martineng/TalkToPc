@@ -1,0 +1,9 @@
+c:\users\martinc.a\documents\visual studio 2017\Projects\TalkToPc\TalkToPc\bin\Debug\TalkToPc.exe.config
+c:\users\martinc.a\documents\visual studio 2017\Projects\TalkToPc\TalkToPc\bin\Debug\TalkToPc.exe
+c:\users\martinc.a\documents\visual studio 2017\Projects\TalkToPc\TalkToPc\bin\Debug\TalkToPc.pdb
+c:\users\martinc.a\documents\visual studio 2017\Projects\TalkToPc\TalkToPc\obj\Debug\TalkToPc.csprojResolveAssemblyReference.cache
+c:\users\martinc.a\documents\visual studio 2017\Projects\TalkToPc\TalkToPc\obj\Debug\TalkToPc.Form1.resources
+c:\users\martinc.a\documents\visual studio 2017\Projects\TalkToPc\TalkToPc\obj\Debug\TalkToPc.Properties.Resources.resources
+c:\users\martinc.a\documents\visual studio 2017\Projects\TalkToPc\TalkToPc\obj\Debug\TalkToPc.csproj.GenerateResource.Cache
+c:\users\martinc.a\documents\visual studio 2017\Projects\TalkToPc\TalkToPc\obj\Debug\TalkToPc.exe
+c:\users\martinc.a\documents\visual studio 2017\Projects\TalkToPc\TalkToPc\obj\Debug\TalkToPc.pdb
